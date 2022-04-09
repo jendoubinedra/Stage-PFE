@@ -1,0 +1,21 @@
+.ProduitBox:hover
+{
+	box-shadow: 0 0 15px black;
+}
+
+
+.ProduitBox
+{
+	margin-bottom: 30px;
+}
+
+.ProduitImage
+{
+	margin-top : 12px;
+}
+
+.ProduitNom
+{
+	color:red;
+	font-size : 20px;
+}
